@@ -100,5 +100,4 @@ For the full narrative see [`Approach_and_Insights.md`](Approach_and_Insights.md
 - Claim amount = ₹10,000 (10 % of ₹1,00,000 vehicle value) for every claim.
 - Earned premium uses a **daily proration** method.
 ---
-## License
-This project was created as part of a BI internship assignment and is intended for educational and evaluation purposes only.
+
